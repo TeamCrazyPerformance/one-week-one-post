@@ -10,9 +10,9 @@
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
 | **[17 김용래](https://github.com/usageness)** | **[15 이재원](https://github.com/ruru14)**  | **[19 김경준](https://github.com/AzureSoda)** | **[20 최승훈](https://github.com/cshooon)** | **[21 전효정](https://github.com/junnie082)** | **[19 오성혁](https://github.com/seong0929)** |
 |[📚](https://usage.tistory.com/) / [✏](https://blog-usageness.vercel.app/) | [📚](https://milleatelier.tistory.com/) | [📚](https://excidus.tistory.com/) | [📚](https://velog.io/@blublue_02) | [📚](https://junnie082.github.io/) | [📚](https://jinger.tistory.com/) |
-| ![image](https://avatars.githubusercontent.com/u/46642837?v=4) | ![image](https://avatars.githubusercontent.com/u/66584938?v=4) | ![image](https://avatars.githubusercontent.com/u/91198933?v=4) | ![image](https://avatars.githubusercontent.com/u/83866983?v=4) | ![image](https://avatars.githubusercontent.com/u/62633602?v=4) |
-| **[17 김도현](https://github.com/cstrnull00)** | **[20 이정현](https://github.com/JHyeon0915)** | **[21 김다은](https://github.com/KimDa99)** | **[21 김신영](https://github.com/ShinYoung-Kim)** | **[23 김정완](https://github.com/kjw4821)** |
-|  [📚](https://cstrnull00.tistory.com/) | [📚](https://bbani.tistory.com/) | [📚](https://devingcroco.tistory.com/) | [📚](https://velog.io/@hannatoo) | [📚](https://velog.io/@kjw4821) |
+| ![image](https://avatars.githubusercontent.com/u/46642837?v=4) | ![image](https://avatars.githubusercontent.com/u/66584938?v=4) | ![image](https://avatars.githubusercontent.com/u/91198933?v=4) | ![image](https://avatars.githubusercontent.com/u/83866983?v=4) | ![image](https://avatars.githubusercontent.com/u/84166896?v=4) | ![image](https://avatars.githubusercontent.com/u/62633602?v=4) |
+| **[17 김도현](https://github.com/cstrnull00)** | **[20 이정현](https://github.com/JHyeon0915)** | **[21 김다은](https://github.com/KimDa99)** | **[21 김신영](https://github.com/ShinYoung-Kim)** |**[21 신용준](https://github.com/Y0ngjun)** | **[23 김정완](https://github.com/kjw4821)** | 
+|  [📚](https://cstrnull00.tistory.com/) | [📚](https://bbani.tistory.com/) | [📚](https://devingcroco.tistory.com/) | [📚](https://velog.io/@hannatoo) | [📚](https://blogofcreditj.tistory.com/) | [📚](https://velog.io/@kjw4821) |
 
 
 
